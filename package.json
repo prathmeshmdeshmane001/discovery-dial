@@ -1,0 +1,26 @@
+{
+  "name": "discovery-dial",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Discovery Dial — An interactive Spotify music-discovery prototype with AI relevance reasoning",
+  "author": "Prathamesh Deshmane <prathmeshmdeshmane@gmail.com> (https://github.com/prathmeshmdeshmane001)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prathmeshmdeshmane001/discovery-dial.git"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
