@@ -1,11 +1,8 @@
 # Discovery Dial — Interactive Spotify Feature Prototype
 
-> **Author & Developer:** Prathamesh Deshmane ([@prathmeshmdeshmane001](https://github.com/prathmeshmdeshmane001) · prathmeshmdeshmane@gmail.com)  
-> **Project Context:** NextLeap Cohort 42 · Spotify Feature Concept · July 2026
-
 An interactive prototype for a Spotify music-discovery feature: a dial that lets active explorers control how much new, unfamiliar music gets mixed into their listening — while an AI relevance layer keeps every new track matched to their chosen vibe. **Discovery you steer, not noise.**
 
-Built for the NextLeap PM graduation project (Spotify track). Demonstrates the validated solution: explorers want fresh music and control, with novelty that stays relevant.
+Demonstrates the validated solution: explorers want fresh music and control, with novelty that stays relevant.
 
 ---
 
@@ -176,10 +173,9 @@ npm run build
 - **Original Developer & Owner:** Prathamesh Deshmane
 - **GitHub:** [@prathmeshmdeshmane001](https://github.com/prathmeshmdeshmane001)
 - **Email:** prathmeshmdeshmane@gmail.com
-- **Cohort:** NextLeap Cohort 42 (July 2026)
 
 ---
 
 ## License & Concept Disclaimer
 
-This project is a design and product prototype created for educational and portfolio demonstration purposes (NextLeap PM track). It is not affiliated with, endorsed by, or sponsored by Spotify AB.
+This project is a design and product prototype created for demonstration purposes. It is not affiliated with, endorsed by, or sponsored by Spotify AB.

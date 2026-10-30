@@ -1318,7 +1318,7 @@ export default function App() {
             </div>
 
             <div style={{ textAlign: "center", color: "#4a4a4a", fontSize: 11, marginTop: 16 }}>
-              Discovery Dial Concept Prototype · Created & Developed by Prathamesh Deshmane · NextLeap Cohort 42
+              Concept feature · not affiliated with Spotify · representative track pool · saves are session-only in this prototype
             </div>
           </div>
         </main>
