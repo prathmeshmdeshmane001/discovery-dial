@@ -13,7 +13,7 @@ Built for the NextLeap PM graduation project (Spotify track). Demonstrates the v
 
 | Resource | Description |
 |---|---|
-| [Discovery Dial Prototype](https://discovery-dial-mu.vercel.app) | Live interactive prototype — no login required |
+| [Discovery Dial Prototype (Live Vercel)](https://discovery-dial-xi.vercel.app) | Live interactive prototype — no login required |
 | [Review Analysis Pipeline](https://spotify-discovery-engine-icedwrwrsufiahmd2st5fs.streamlit.app) | The research pipeline that validated this feature |
 | [Pipeline GitHub](https://github.com/pbehuray/spotify-discovery-engine) | 456-review classification pipeline source code |
 
